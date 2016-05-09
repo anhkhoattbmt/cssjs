@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://fese.uel.edu.vn/' target='_blank'><img src='http://www.uel.edu.vn/Resources/Images/SubDomain/HomePage/TinTuc/Doan%20-%20Hoi/2014/FESE%2011%20-%20be%20mac/NAM_1204.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://fese.uel.edu.vn/' target='_blank'><img src='http://www.uel.edu.vn/Resources/Images/SubDomain/HomePage/TinTuc/Doan%20-%20Hoi/2014/FESE%2011%20-%20be%20mac/NAM_1204.jpg' width='500px'/>Sân chơi học thuật dành cho sinh viên</a>. Sẽ trở lại vào tháng 10/2016. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
